@@ -18,7 +18,7 @@
     <div>Home</div>
     <div>Restaurants</div>
     <div>Events</div>
-    <a href = "https://thomas-holmes-cmd.github.io/Christmas-Project/museum.html"> Museums </a>
+    <a href = "[https://thomas-holmes-cmd.github.io/Christmas-Project/museum.html](https://thomas-holmes-cmd.github.io/Christmas-Project/museum.html)"> Museums </a>
 </div>
 
 <hr>
