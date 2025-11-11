@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  margin: 0;
 }
 
 h1 {
@@ -8,9 +9,20 @@ h1 {
   font-size: 80px;
 }
 
+
 header {
   text-align: center;
   font-family: "Arial", sans-serif;
+  border: 5px solid black;
+  border-radius: 0;
+  padding: 20px 0; 
+  margin: 0;
+  width: 100%;  
+  box-sizing: border-box;    
+}
+
+header h1 {
+  margin: 0;
 }
 
 p {
@@ -36,10 +48,18 @@ nav {
   display: block;
 }
 
+
 .navbar-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  padding: 15px 0;
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: white;
 }
 
 .navbar-container ul {
@@ -55,6 +75,33 @@ nav {
 
 .navbar-container a {
   text-decoration: none;
-  color: #blue;
-  font-size: 30px;
+  color: #333;
+  font-size: 40px;
 }
+.gentext {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 40px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+	
