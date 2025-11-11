@@ -1,0 +1,62 @@
+.Heading{
+background-color:green;
+}
+h1{ color:white;
+background-color:green;
+text-align: center;
+}
+
+h2{ color:white;
+background-color:green;
+text-align: center;
+}
+
+hr{
+background-color:green;
+}
+
+LimerickDroneView{
+align: center;
+}
+
+
+.TextBoxes{
+display:grid;
+grid-template-columns: auto auto;
+background-color: green;
+padding: 10px;
+}
+
+.TextBoxes div{
+background-color: white;
+border: 1px black;
+padding: 10px;
+font-size: 20px;
+text-align: center:
+column-gap: 4px;
+}
+
+.Title{
+text-align: left;
+}
+
+.Text1{
+text-align: right;
+}
+
+.Text2{
+text-align: left;
+}
+
+.Image{
+align: center;
+}
+
+
+
+.wrapper{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color:grey;
+
+}
