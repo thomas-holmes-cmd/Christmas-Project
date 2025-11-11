@@ -1,0 +1,60 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 80px;
+}
+
+header {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+}
+
+p {
+  font-family: verdana;
+  font-size: 50px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.image-container img {
+  width: 400px;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+nav {
+  display: block;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-container ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-container li {
+  margin: 0 10px;
+}
+
+.navbar-container a {
+  text-decoration: none;
+  color: #blue;
+  font-size: 30px;
+}
