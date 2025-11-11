@@ -18,7 +18,7 @@
     <div>Home</div>
     <div>Restaurants</div>
     <div>Events</div>
-    <div>Museums</div>
+    <div><a href = "Museum.html"> Museums </a></div>
 </div>
 
 <hr>
