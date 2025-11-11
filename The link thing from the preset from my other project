@@ -1,0 +1,26 @@
+this will only work for the first link, so in this case the "My welding"
+
+
+<ul>
+								<li><a href="#Welding">My welding</a></li>
+								<li><a href="#Nonesense">Video game stuff</a></li>
+								<li><a href="#Music">Music</a></li>
+								<li><a href="#Movies">Favourite Movies</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="Welding">
+								<h2> Welding</h2>
+								<span class="image main"><img src="bg.png" alt="" /></span>
+									<p>Welding</p>
+									
+								<p>I just really like welding because making stuff is awesome and being ablt to make something with weight and sturdiness is just cool. Also making weird shit is fun.</p>
+								<p>Most of the stuff I have made with welding is from an anime or game and is just weird enough that having made it and owning it is cool in and of itself. I have made stuff like the inverted spear of heaven from JJK, or Tengen Uzui's sword from demon slayer, all of which are repilcas(legally)</p>
+	                           
+							</article>
