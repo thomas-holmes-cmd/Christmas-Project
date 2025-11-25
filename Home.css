@@ -1,6 +1,9 @@
 .Heading{
 background-color:green;
+
 }
+
+
 h1{ color:white;
 background-color:green;
 text-align: center;
@@ -13,6 +16,15 @@ text-align: center;
 
 hr{
 background-color:green;
+}
+
+
+.HOME{
+text-align: center;
+text-shadow: 2px 2px black;
+font-size: 50px;
+p{
+color: white}
 }
 
 LimerickDroneView{
@@ -28,35 +40,73 @@ padding: 10px;
 }
 
 .TextBoxes div{
-background-color: white;
+
 border: 1px black;
 padding: 10px;
 font-size: 20px;
 text-align: center:
-column-gap: 4px;
+border-style: solid;
 }
 
 .Title{
-text-align: left;
-}
+background-color: green;
+p{
+background-color: white;
+border-bottom-style: solid;
+border-right-style: solid;
+border-color: green;
+border-width: 5px;
+padding: 10%;
+}}
 
 .Text1{
-text-align: right;
-}
+background-color: green;
+p{
+background-color: white;
+border-bottom-style: solid;
+border-left-style: solid;
+border-color: green;
+border-width: 5px;
+padding: 10%;
+}}
 
 .Text2{
-text-align: left;
-}
+background-color: green;
+p{
+background-color:white;
+border-top-style: solid;
+border-right-style: solid;
+border-color: green;
+border-width: 5px;
+padding: 10%;
+}}
 
 .Image{
-align: center;
-}
-
-
+background-color: green;
+img{
+background-color:white;
+border-top-style: solid;
+border-left-style: solid;
+border-color: green;
+border-width: 5px;
+padding: 10px;
+}}
 
 .wrapper{
   display: grid;
   grid-template-columns: auto auto auto auto;
   background-color:grey;
+  font-weight: bold;
 
 }
+
+
+body {
+  background-image: url("LimerickImage.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1440px 551px;
+}
+
+.Copyright{
+background-color: white;}
