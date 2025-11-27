@@ -11,30 +11,24 @@
     <hr>
     <h1> Welcome to Limerick </h1>
     <h2> Our travel guide for Limerick city</h2>
-    <hr>
+   <hr>
 </div>
-
 <div class="wrapper">
-        <div>Home</div>
-        <div>Restaurants</div>
-        <div>Events</div>
-        <div>Museums</div>
+
+        <div><a href="home.html">Home</a></div>
+        <div><a href="restaurants.html">Restaurants</a></div>
+        <div><a href="events.html">Events</a></div>
+        <div><a href="museums.html">Museums</a></div>
+
 </div>
 
-<hr>
-<p>&#160;</p>
-<p>&#160;</p>
-<p>&#160;</p>
-<p>&#160;</p>
-<p>&#160;</p>
 
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
 <div class="HOME">
     <p>HOME</p>
 </div>
-
-<p>&#160;</p>
-<p>&#160;</p>
-<p>&#160;</p>
 <p>&#160;</p>
 <p>&#160;</p>
 <p>&#160;</p>
@@ -51,24 +45,37 @@
 <div class="TextBoxes">
 
 <div class="Title">
-<p>This is the title. It will be on the left half of the page underneath the video</p>
+<p>In our website we will talk a bit about interesting places and events that will interest you.
+    Please enjoy each section, that has been made unique and full of information about Limerick city.</p>
 </div>
 
 <div class="Text1">
-<p>This is the first text box. It will be on the right half of the page underneath the video</p>
+<p>Limerick city is home to many interesting things such as museums, restaurants or events and the goal of this website is to show you some of these things, that will hopefully make you more interested in Limerick city and what is has to offer than you were before-hand. We will touch a little on three aspects that would be most appealing to anyone coming to Limerick city, these topics are as said before, The events of Limerick city, The restaraunts you can find in Limerick city and The museums around Limerick city.</p>
 </div>
 
 <div class="Text2">
-<p>This is the second text box. It will be on the left side of the page underneath the title</p>
+<p>This project is a shared effort by four of us, Conor Quigley, Tom Holmes, Jawad Abu Al-Salqan and Ahmad...
+We each contributed a page to this project.
+This is our travel guide to Limerick city.</p>
 </div>
 
-<div class="Image">
+<div class="Image1">
 
-    <img src="LimerickImage.jpg" width="75%" height="75%">
-</div>
+    <img src="LIM1.jpg" width="95%" height="55%">
 </div>
 
-<p>Gonna put a lot of writing in this section</p>
+    <div class="Image2">
+        <img src="LIM2.jpg" width="100%" height="100%">
+    </div>
+    <div calss="Image3">
+        <img src="LIM3.jpg" width="100%" height="100%">
+    </div>
+</div>
+
+<div class="BottomP">
+    <p>A short recap of Limerick city:</p>
+<p>Limerick City, located on the banks of the River Shannon in western Ireland, is a vibrant blend of rich history and modern culture. Known for landmarks like King John’s Castle and the medieval St. Mary’s Cathedral, the city offers a fascinating glimpse into Ireland’s past. At the same time, its lively arts scene, bustling markets, and growing tech presence make it a dynamic place to explore. With friendly locals, scenic riverside walks, and a unique mix of old and new, Limerick stands out as one of Ireland’s most characterful urban centers.</p>
+</div>
 
 <div class="Copyright">
     <hr>
