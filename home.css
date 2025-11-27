@@ -111,6 +111,12 @@ font-size: 20px;
 
 }
 
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 
 .BottomP{
 background-color:white;
