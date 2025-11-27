@@ -51,6 +51,8 @@ border-style: solid;
 .Title{
 background-color: green;
 p{
+ont-style: bold;
+font-size: 30px;
 background-color: white;
 border-bottom-style: solid;
 border-right-style: solid;
@@ -81,25 +83,42 @@ border-width: 5px;
 padding: 10%;
 }}
 
-.Image{
+.Image1{
 background-color: green;
 img{
-background-color:white;
-border-top-style: solid;
-border-left-style: solid;
-border-color: green;
-border-width: 5px;
-padding: 10px;
+<!--background-color:white;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-color: green;
+    border-width: 5px;
+    padding: 10px;
+    If need to add background to images-->
 }}
 
 .wrapper{
   display: grid;
   grid-template-columns: auto auto auto auto;
-  background-color:grey;
+  background-color:white;
   font-weight: bold;
+  text-align: center;
+}
+
+.wrapper div{
+border-style: solid;
+border-width: 2px;
+border-color: black;
+font-size: 20px;
 
 }
 
+
+.BottomP{
+background-color:white;
+border-style:solid;
+border-color: black;
+border-width: 2px;
+text-align: center;
+}
 
 body {
   background-image: url("LimerickImage.jpg");
@@ -109,4 +128,5 @@ body {
 }
 
 .Copyright{
+text-align: center;
 background-color: white;}
