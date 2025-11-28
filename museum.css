@@ -1,0 +1,91 @@
+h1{
+	color: white;
+}
+h2{
+	text-align: center;
+	font-family: "Arial",sans-serif;
+	font-family: bold;
+}
+header{
+	background-color: green;
+}
+a{
+	font-family: "Arial",sans-serif;
+	margin: 0;
+	padding: 15px 0;
+	font-size: 20px;
+}
+p{
+	font-family: "Arial",sans-serif;
+	padding: 15px 0;
+	font-size: 20px;
+}
+
+.info{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-rows: 200x;
+}
+
+img{
+	border: 8px solid green;
+	padding: 20px;
+}
+.Limerick{
+	margin-left:20px;
+}
+.picture{
+	background-color: #add8e6;
+	padding:20px;
+}
+.text{
+	background-color: #808080;
+	border-bottom: 5px solid black;
+	text-align: center;
+}
+.other{
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	margin: 0;
+    padding: 5px;
+    background-color:#adff2f ;
+}
+.intro{
+	background-color: #10A3A2;
+	
+}
+ol{
+	font-size: 18px;
+	
+}
+.info2{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	font-size:25px;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table{
+	float: 0;
+	margin-left:50px;
+}
+.entry{
+	font-weight:bold;
+}
+footer{
+	text-align: center;
+	font-weight:bold;
+}
+.margin{
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
+}
